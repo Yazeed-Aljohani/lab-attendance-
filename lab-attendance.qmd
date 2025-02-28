@@ -1,0 +1,11 @@
+---
+title: "lab-attendance"
+format: html
+name: Yazeed Aljohani
+editor: visual
+
+execute: 
+  echo: true
+---
+
+#I have learned how to make a website with Quarto and Github :D
