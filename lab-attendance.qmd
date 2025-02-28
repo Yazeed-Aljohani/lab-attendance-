@@ -8,4 +8,4 @@ execute:
   echo: true
 ---
 
-#I have learned how to make a website with Quarto and Github :D
+#I have learned how to make a website with Quarto and Github :D :3
